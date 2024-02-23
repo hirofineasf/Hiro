@@ -7,9 +7,9 @@
 ## :rocket: Installation
  
 ```bash
-rm -rf KAIDO
-git clone --depth=1 https://github.com/KAIDO-143/KAIDO.git
-cd KAIDO
+rm -rf Hiro
+git clone --depth=1 https://github.com/hirofineasf/Hiro.git
+cd Hiro
 python3 run.py
 ```
 ![RANDOM-M4](https://github.com/KAIDO-143/config/blob/main/IMG-20240222-WA0051.jpg)
